@@ -1,0 +1,435 @@
+Sno,Province/State,Country,Last Update,Confirmed,Deaths,Recovered
+1,Anhui,China,1/22/2020 12:00,1.0,0.0,0.0
+2,Beijing,China,1/22/2020 12:00,14.0,0.0,0.0
+3,Chongqing,China,1/22/2020 12:00,6.0,0.0,0.0
+4,Fujian,China,1/22/2020 12:00,1.0,0.0,0.0
+5,Gansu,China,1/22/2020 12:00,0.0,0.0,0.0
+6,Guangdong,China,1/22/2020 12:00,26.0,0.0,0.0
+7,Guangxi,China,1/22/2020 12:00,2.0,0.0,0.0
+8,Guizhou,China,1/22/2020 12:00,1.0,0.0,0.0
+9,Hainan,China,1/22/2020 12:00,4.0,0.0,0.0
+10,Hebei,China,1/22/2020 12:00,1.0,0.0,0.0
+11,Heilongjiang,China,1/22/2020 12:00,0.0,0.0,0.0
+12,Henan,China,1/22/2020 12:00,5.0,0.0,0.0
+13,Hong Kong,China,1/22/2020 12:00,0.0,0.0,0.0
+14,Hubei,China,1/22/2020 12:00,444.0,0.0,0.0
+15,Hunan,China,1/22/2020 12:00,4.0,0.0,0.0
+16,Inner Mongolia,China,1/22/2020 12:00,0.0,0.0,0.0
+17,Jiangsu,China,1/22/2020 12:00,1.0,0.0,0.0
+18,Jiangxi,China,1/22/2020 12:00,2.0,0.0,0.0
+19,Jilin,China,1/22/2020 12:00,0.0,0.0,0.0
+20,Liaoning,China,1/22/2020 12:00,2.0,0.0,0.0
+21,Macau,China,1/22/2020 12:00,1.0,0.0,0.0
+22,Ningxia,China,1/22/2020 12:00,1.0,0.0,0.0
+23,Qinghai,China,1/22/2020 12:00,0.0,0.0,0.0
+24,Shaanxi,China,1/22/2020 12:00,0.0,0.0,0.0
+25,Shandong,China,1/22/2020 12:00,2.0,0.0,0.0
+26,Shanghai,China,1/22/2020 12:00,9.0,0.0,0.0
+27,Shanxi,China,1/22/2020 12:00,1.0,0.0,0.0
+28,Sichuan,China,1/22/2020 12:00,5.0,0.0,0.0
+29,Taiwan,China,1/22/2020 12:00,1.0,0.0,0.0
+30,Tianjin,China,1/22/2020 12:00,4.0,0.0,0.0
+31,Tibet,China,1/22/2020 12:00,0.0,0.0,0.0
+32,Washington,US,1/22/2020 12:00,1.0,0.0,0.0
+33,Xinjiang,China,1/22/2020 12:00,0.0,0.0,0.0
+34,Yunnan,China,1/22/2020 12:00,1.0,0.0,0.0
+35,Zhejiang,China,1/22/2020 12:00,10.0,0.0,0.0
+36,,Japan,1/22/2020 12:00,2.0,0.0,0.0
+37,,Thailand,1/22/2020 12:00,2.0,0.0,0.0
+38,,South Korea,1/22/2020 12:00,1.0,0.0,0.0
+39,Anhui,Mainland China,1/23/20 12:00 PM,9.0,0.0,0.0
+40,Beijing,Mainland China,1/23/20 12:00 PM,22.0,0.0,0.0
+41,Chongqing,Mainland China,1/23/20 12:00 PM,9.0,0.0,0.0
+42,Fujian,Mainland China,1/23/20 12:00 PM,5.0,0.0,0.0
+43,Gansu,Mainland China,1/23/20 12:00 PM,2.0,0.0,0.0
+44,Guangdong,Mainland China,1/23/20 12:00 PM,32.0,0.0,2.0
+45,Guangxi,Mainland China,1/23/20 12:00 PM,5.0,0.0,0.0
+46,Guizhou,Mainland China,1/23/20 12:00 PM,3.0,0.0,0.0
+47,Hainan,Mainland China,1/23/20 12:00 PM,5.0,0.0,0.0
+48,Hebei,Mainland China,1/23/20 12:00 PM,1.0,1.0,0.0
+49,Heilongjiang,Mainland China,1/23/20 12:00 PM,2.0,0.0,0.0
+50,Henan,Mainland China,1/23/20 12:00 PM,5.0,0.0,0.0
+51,Hong Kong,Hong Kong,1/23/20 12:00 PM,2.0,0.0,0.0
+52,Hubei,Mainland China,1/23/20 12:00 PM,444.0,17.0,28.0
+53,Hunan,Mainland China,1/23/20 12:00 PM,9.0,0.0,0.0
+54,Inner Mongolia,Mainland China,1/23/20 12:00 PM,0.0,0.0,0.0
+55,Jiangsu,Mainland China,1/23/20 12:00 PM,5.0,0.0,0.0
+56,Jiangxi,Mainland China,1/23/20 12:00 PM,7.0,0.0,0.0
+57,Jilin,Mainland China,1/23/20 12:00 PM,1.0,0.0,0.0
+58,Liaoning,Mainland China,1/23/20 12:00 PM,3.0,0.0,0.0
+59,Macau,Macau,1/23/20 12:00 PM,2.0,0.0,0.0
+60,Ningxia,Mainland China,1/23/20 12:00 PM,1.0,0.0,0.0
+61,Qinghai,Mainland China,1/23/20 12:00 PM,0.0,0.0,0.0
+62,Shaanxi,Mainland China,1/23/20 12:00 PM,3.0,0.0,0.0
+63,Shandong,Mainland China,1/23/20 12:00 PM,6.0,0.0,0.0
+64,Shanghai,Mainland China,1/23/20 12:00 PM,16.0,0.0,0.0
+65,Shanxi,Mainland China,1/23/20 12:00 PM,1.0,0.0,0.0
+66,Sichuan,Mainland China,1/23/20 12:00 PM,8.0,0.0,0.0
+67,Taiwan,Taiwan,1/23/20 12:00 PM,1.0,0.0,0.0
+68,Tianjin,Mainland China,1/23/20 12:00 PM,4.0,0.0,0.0
+69,Tibet,Mainland China,1/23/20 12:00 PM,0.0,0.0,0.0
+70,Washington,US,1/23/20 12:00 PM,1.0,0.0,0.0
+71,Xinjiang,Mainland China,1/23/20 12:00 PM,2.0,0.0,0.0
+72,Yunnan,Mainland China,1/23/20 12:00 PM,2.0,0.0,0.0
+73,Zhejiang,Mainland China,1/23/20 12:00 PM,27.0,0.0,0.0
+74,,Japan,1/23/20 12:00 PM,1.0,0.0,0.0
+75,,Thailand,1/23/20 12:00 PM,3.0,0.0,0.0
+76,,South Korea,1/23/20 12:00 PM,1.0,0.0,0.0
+77,,Singapore,1/23/20 12:00 PM,1.0,0.0,0.0
+78,,Philippines,1/23/20 12:00 PM,0.0,0.0,0.0
+79,,Malaysia,1/23/20 12:00 PM,0.0,0.0,0.0
+80,,Vietnam,1/23/20 12:00 PM,2.0,0.0,0.0
+81,,Australia,1/23/20 12:00 PM,0.0,0.0,0.0
+82,,Mexico,1/23/20 12:00 PM,0.0,0.0,0.0
+83,,Brazil,1/23/20 12:00 PM,0.0,0.0,0.0
+84,Hubei,Mainland China,1/24/2020 12:00 PM,549.0,24.0,31.0
+85,Guangdong,Mainland China,1/24/2020 12:00 PM,53.0,0.0,2.0
+86,Zhejiang,Mainland China,1/24/2020 12:00 PM,43.0,0.0,1.0
+87,Beijing,Mainland China,1/24/2020 12:00 PM,36.0,0.0,1.0
+88,Chongqing,Mainland China,1/24/2020 12:00 PM,27.0,0.0,0.0
+89,Hunan,Mainland China,1/24/2020 12:00 PM,24.0,0.0,0.0
+90,Guangxi,Mainland China,1/24/2020 12:00 PM,23.0,0.0,0.0
+91,Shanghai,Mainland China,1/24/2020 12:00 PM,20.0,0.0,1.0
+92,Jiangxi,Mainland China,1/24/2020 12:00 PM,18.0,0.0,0.0
+93,Sichuan,Mainland China,1/24/2020 12:00 PM,15.0,0.0,0.0
+94,Shandong,Mainland China,1/24/2020 12:00 PM,15.0,0.0,0.0
+95,Anhui,Mainland China,1/24/2020 12:00 PM,15.0,0.0,0.0
+96,Fujian,Mainland China,1/24/2020 12:00 PM,10.0,0.0,0.0
+97,Henan,Mainland China,1/24/2020 12:00 PM,9.0,0.0,0.0
+98,Jiangsu,Mainland China,1/24/2020 12:00 PM,9.0,0.0,0.0
+99,Hainan,Mainland China,1/24/2020 12:00 PM,8.0,0.0,0.0
+100,Tianjin,Mainland China,1/24/2020 12:00 PM,8.0,0.0,0.0
+101,Yunnan,Mainland China,1/24/2020 12:00 PM,5.0,0.0,0.0
+102,Shaanxi,Mainland China,1/24/2020 12:00 PM,5.0,0.0,0.0
+103,Heilongjiang,Mainland China,1/24/2020 12:00 PM,4.0,1.0,0.0
+104,Liaoning,Mainland China,1/24/2020 12:00 PM,4.0,0.0,0.0
+105,Guizhou,Mainland China,1/24/2020 12:00 PM,3.0,0.0,0.0
+106,Jilin,Mainland China,1/24/2020 12:00 PM,3.0,0.0,0.0
+107,Taiwan,Taiwan,1/24/2020 12:00 PM,3.0,0.0,0.0
+108,Ningxia,Mainland China,1/24/2020 12:00 PM,2.0,0.0,0.0
+109,Hong Kong,Hong Kong,1/24/2020 12:00 PM,2.0,0.0,0.0
+110,Macau,Macau,1/24/2020 12:00 PM,2.0,0.0,0.0
+111,Hebei,Mainland China,1/24/2020 12:00 PM,2.0,1.0,0.0
+112,Gansu,Mainland China,1/24/2020 12:00 PM,2.0,0.0,0.0
+113,Xinjiang,Mainland China,1/24/2020 12:00 PM,2.0,0.0,0.0
+114,Shanxi,Mainland China,1/24/2020 12:00 PM,1.0,0.0,0.0
+115,Inner Mongolia,Mainland China,1/24/2020 12:00 PM,1.0,0.0,0.0
+116,Qinghai,Mainland China,1/24/2020 12:00 PM,0.0,0.0,0.0
+117,Washington,US,1/24/2020 12:00 PM,1.0,0.0,0.0
+118,Chicago,US,1/24/2020 12:00 PM,1.0,0.0,0.0
+119,,Japan,1/24/2020 12:00 PM,2.0,0.0,0.0
+120,,Thailand,1/24/2020 12:00 PM,5.0,0.0,0.0
+121,,South Korea,1/24/2020 12:00 PM,2.0,0.0,0.0
+122,,Singapore,1/24/2020 12:00 PM,3.0,0.0,0.0
+123,,Vietnam,1/24/2020 12:00 PM,2.0,0.0,0.0
+124,,France,1/24/2020 4:00 PM,2.0,0.0,0.0
+125,Hubei,Mainland China,1/25/2020 10:00 PM,1052.0,52.0,42.0
+126,Zhejiang,Mainland China,1/25/2020 10:00 PM,104.0,0.0,1.0
+127,Guangdong,Mainland China,1/25/2020 12:00 PM,98.0,0.0,2.0
+128,Henan,Mainland China,1/25/2020 12:00 PM,83.0,1.0,0.0
+129,Chongqing,Mainland China,1/25/2020 12:00 PM,75.0,0.0,0.0
+130,Hunan,Mainland China,1/25/2020 12:00 PM,69.0,0.0,0.0
+131,Anhui,Mainland China,1/25/2020 12:00 PM,60.0,0.0,0.0
+132,Beijing,Mainland China,1/25/2020 12:00 PM,51.0,0.0,2.0
+133,Sichuan,Mainland China,1/25/2020 12:00 PM,44.0,0.0,0.0
+134,Shanghai,Mainland China,1/25/2020 12:00 PM,40.0,1.0,1.0
+135,Shandong,Mainland China,1/25/2020 12:00 PM,39.0,0.0,0.0
+136,Jiangxi,Mainland China,1/25/2020 12:00 PM,36.0,0.0,0.0
+137,Guangxi,Mainland China,1/25/2020 12:00 PM,33.0,0.0,0.0
+138,Jiangsu,Mainland China,1/25/2020 12:00 PM,31.0,0.0,1.0
+139,Hainan,Mainland China,1/25/2020 12:00 PM,19.0,0.0,0.0
+140,Liaoning,Mainland China,1/25/2020 12:00 PM,19.0,0.0,0.0
+141,Fujian,Mainland China,1/25/2020 12:00 PM,18.0,1.0,0.0
+142,Heilongjiang,Mainland China,1/25/2020 12:00 PM,15.0,0.0,0.0
+143,Shaanxi,Mainland China,1/25/2020 12:00 PM,15.0,0.0,0.0
+144,Tianjin,Mainland China,1/25/2020 12:00 PM,13.0,0.0,0.0
+145,Hebei,Mainland China,1/25/2020 12:00 PM,13.0,1.0,0.0
+146,Yunnan,Mainland China,1/25/2020 12:00 PM,11.0,0.0,0.0
+147,Shanxi,Mainland China,1/25/2020 12:00 PM,9.0,0.0,0.0
+148,Inner Mongolia,Mainland China,1/25/2020 12:00 PM,7.0,0.0,0.0
+149,Gansu,Mainland China,1/25/2020 12:00 PM,7.0,0.0,0.0
+150,Guizhou,Mainland China,1/25/2020 12:00 PM,5.0,0.0,0.0
+151,Hong Kong,Hong Kong,1/25/2020 12:00 PM,5.0,0.0,0.0
+152,Ningxia,Mainland China,1/25/2020 12:00 PM,4.0,0.0,0.0
+153,Jilin,Mainland China,1/25/2020 12:00 PM,4.0,0.0,0.0
+154,Xinjiang,Mainland China,1/25/2020 12:00 PM,4.0,0.0,0.0
+155,Taiwan,Taiwan,1/25/2020 12:00 PM,3.0,0.0,0.0
+156,Macau,Macau,1/25/2020 12:00 PM,2.0,0.0,0.0
+157,Qinghai,Mainland China,1/25/2020 12:00 PM,1.0,0.0,0.0
+158,Washington,US,1/25/2020 12:00 PM,1.0,0.0,0.0
+159,Illinois,US,1/25/2020 12:00 PM,1.0,0.0,0.0
+160,,Japan,1/25/2020 12:00 PM,2.0,0.0,0.0
+161,,Thailand,1/25/2020 12:00 PM,7.0,0.0,0.0
+162,,South Korea,1/25/2020 12:00 PM,3.0,0.0,0.0
+163,,Singapore,1/25/2020 12:00 PM,3.0,0.0,0.0
+164,,Vietnam,1/25/2020 12:00 PM,2.0,0.0,0.0
+165,,France,1/25/2020 12:00 PM,3.0,0.0,0.0
+166,,Australia,1/25/2020 12:00 PM,4.0,0.0,0.0
+167,,Nepal,1/25/2020 12:00 PM,1.0,0.0,0.0
+168,,Malaysia,1/25/2020 12:00 PM,3.0,0.0,0.0
+169,Hubei,Mainland China,1/26/2020 23:00,1423.0,76.0,44.0
+170,Guangdong,Mainland China,1/26/2020 23:00,146.0,0.0,2.0
+171,Zhejiang,Mainland China,1/26/2020 23:00,128.0,0.0,1.0
+172,Henan,Mainland China,1/26/2020 23:00,128.0,1.0,0.0
+173,Chongqing,Mainland China,1/26/2020 23:00,110.0,0.0,0.0
+174,Hunan,Mainland China,1/26/2020 23:00,100.0,0.0,0.0
+175,Anhui,Mainland China,1/26/2020 23:00,70.0,0.0,0.0
+176,Sichuan,Mainland China,1/26/2020 23:00,69.0,0.0,0.0
+177,Beijing,Mainland China,1/26/2020 23:00,68.0,0.0,2.0
+178,Shandong,Mainland China,1/26/2020 23:00,63.0,0.0,0.0
+179,Shanghai,Mainland China,1/26/2020 23:00,53.0,1.0,1.0
+180,Jiangxi,Mainland China,1/26/2020 23:00,48.0,0.0,0.0
+181,Jiangsu,Mainland China,1/26/2020 23:00,47.0,0.0,1.0
+182,Guangxi,Mainland China,1/26/2020 23:00,46.0,0.0,0.0
+183,Fujian,Mainland China,1/26/2020 23:00,35.0,0.0,0.0
+184,Liaoning,Mainland China,1/26/2020 23:00,23.0,0.0,0.0
+185,Hainan,Mainland China,1/26/2020 23:00,22.0,0.0,0.0
+186,Shaanxi,Mainland China,1/26/2020 23:00,22.0,0.0,0.0
+187,Heilongjiang,Mainland China,1/26/2020 23:00,21.0,1.0,0.0
+188,Yunnan,Mainland China,1/26/2020 23:00,19.0,0.0,0.0
+189,Hebei,Mainland China,1/26/2020 23:00,18.0,1.0,0.0
+190,Tianjin,Mainland China,1/26/2020 23:00,14.0,0.0,0.0
+191,Gansu,Mainland China,1/26/2020 23:00,14.0,0.0,0.0
+192,Shanxi,Mainland China,1/26/2020 23:00,13.0,0.0,0.0
+193,Inner Mongolia,Mainland China,1/26/2020 23:00,11.0,0.0,0.0
+194,Hong Kong,Hong Kong,1/26/2020 23:00,8.0,0.0,0.0
+195,Guizhou,Mainland China,1/26/2020 23:00,7.0,0.0,0.0
+196,Jilin,Mainland China,1/26/2020 23:00,6.0,0.0,0.0
+197,Macau,Macau,1/26/2020 23:00,6.0,0.0,0.0
+198,Xinjiang,Mainland China,1/26/2020 23:00,5.0,0.0,0.0
+199,Ningxia,Mainland China,1/26/2020 23:00,4.0,0.0,0.0
+200,Taiwan,Taiwan,1/26/2020 23:00,4.0,0.0,0.0
+201,Qinghai,Mainland China,1/26/2020 23:00,4.0,0.0,0.0
+202,Washington,US,1/26/2020 23:00,1.0,0.0,0.0
+203,Illinois,US,1/26/2020 23:00,1.0,0.0,0.0
+204,California,US,1/26/2020 23:00,2.0,0.0,0.0
+205,Arizona,US,1/26/2020 23:00,1.0,0.0,0.0
+206,,Japan,1/26/2020 23:00,4.0,0.0,1.0
+207,,Thailand,1/26/2020 23:00,8.0,0.0,2.0
+208,,South Korea,1/26/2020 23:00,3.0,0.0,0.0
+209,,Singapore,1/26/2020 23:00,4.0,0.0,0.0
+210,,Vietnam,1/26/2020 23:00,2.0,0.0,0.0
+211,,France,1/26/2020 23:00,3.0,0.0,0.0
+212,,Australia,1/26/2020 23:00,4.0,0.0,0.0
+213,,Nepal,1/26/2020 23:00,1.0,0.0,0.0
+214,,Malaysia,1/26/2020 23:00,4.0,0.0,0.0
+215,Ontario,Canada,1/26/2020 23:00,1.0,0.0,0.0
+216,Hubei,Mainland China,1/27/2020 20:30,2714.0,100.0,47.0
+217,Zhejiang,Mainland China,1/27/2020 20:30,173.0,0.0,1.0
+218,Henan,Mainland China,1/27/2020 20:30,168.0,1.0,0.0
+219,Guangdong,Mainland China,1/27/2020 20:30,151.0,0.0,4.0
+220,Chongqing,Mainland China,1/27/2020 20:30,132.0,0.0,0.0
+221,Anhui,Mainland China,1/27/2020 20:30,106.0,0.0,0.0
+222,Hunan,Mainland China,1/27/2020 20:30,100.0,0.0,0.0
+223,Sichuan,Mainland China,1/27/2020 20:30,90.0,0.0,0.0
+224,Shandong,Mainland China,1/27/2020 20:30,87.0,1.0,0.0
+225,Beijing,Mainland China,1/27/2020 20:30,80.0,1.0,2.0
+226,Jiangxi,Mainland China,1/27/2020 20:30,72.0,0.0,2.0
+227,Jiangsu,Mainland China,1/27/2020 20:30,70.0,0.0,1.0
+228,Shanghai,Mainland China,1/27/2020 20:30,66.0,1.0,3.0
+229,Fujian,Mainland China,1/27/2020 20:30,59.0,0.0,0.0
+230,Guangxi,Mainland China,1/27/2020 20:30,51.0,0.0,0.0
+231,Shaanxi,Mainland China,1/27/2020 20:30,35.0,0.0,0.0
+232,Hainan,Mainland China,1/27/2020 20:30,33.0,1.0,0.0
+233,Hebei,Mainland China,1/27/2020 20:30,33.0,1.0,0.0
+234,Heilongjiang,Mainland China,1/27/2020 20:30,30.0,1.0,0.0
+235,Liaoning,Mainland China,1/27/2020 20:30,27.0,0.0,0.0
+236,Yunnan,Mainland China,1/27/2020 20:30,26.0,0.0,0.0
+237,Tianjin,Mainland China,1/27/2020 20:30,23.0,0.0,0.0
+238,Shanxi,Mainland China,1/27/2020 20:30,20.0,0.0,0.0
+239,Gansu,Mainland China,1/27/2020 20:30,19.0,0.0,0.0
+240,Inner Mongolia,Mainland China,1/27/2020 20:30,11.0,0.0,0.0
+241,Guizhou,Mainland China,1/27/2020 20:30,9.0,0.0,0.0
+242,Hong Kong,Hong Kong,1/27/2020 20:30,8.0,0.0,0.0
+243,Ningxia,Mainland China,1/27/2020 20:30,7.0,0.0,0.0
+244,Jilin,Mainland China,1/27/2020 20:30,6.0,0.0,0.0
+245,Macau,Macau,1/27/2020 20:30,6.0,0.0,0.0
+246,Qinghai,Mainland China,1/27/2020 20:30,6.0,0.0,0.0
+247,Taiwan,Taiwan,1/27/2020 20:30,5.0,0.0,0.0
+248,Xinjiang,Mainland China,1/27/2020 20:30,5.0,0.0,0.0
+249,Washington,US,1/27/2020 20:30,1.0,0.0,0.0
+250,Illinois,US,1/27/2020 20:30,1.0,0.0,0.0
+251,California,US,1/27/2020 20:30,2.0,0.0,0.0
+252,Arizona,US,1/27/2020 20:30,1.0,0.0,0.0
+253,,Japan,1/27/2020 20:30,4.0,0.0,1.0
+254,,Thailand,1/27/2020 20:30,8.0,0.0,2.0
+255,,South Korea,1/27/2020 20:30,4.0,0.0,0.0
+256,,Singapore,1/27/2020 20:30,5.0,0.0,0.0
+257,,Vietnam,1/27/2020 20:30,2.0,0.0,0.0
+258,,France,1/27/2020 20:30,3.0,0.0,0.0
+259,,Nepal,1/27/2020 20:30,1.0,0.0,0.0
+260,,Malaysia,1/27/2020 20:30,4.0,0.0,0.0
+261,Ontario,Canada,1/27/2020 20:30,1.0,0.0,0.0
+262,,Cambodia,1/27/2020 20:30,1.0,0.0,0.0
+263,,Sri Lanka,1/27/2020 20:30,1.0,0.0,0.0
+264,,Ivory Coast,1/27/2020 20:30,0.0,0.0,0.0
+265,New South Wales,Australia,1/27/2020 20:30,4.0,0.0,0.0
+266,Victoria,Australia,1/27/2020 20:30,1.0,0.0,0.0
+267,Bavaria,Germany,1/27/2020 20:30,1.0,0.0,0.0
+268,Hubei,Mainland China,1/28/2020 23:00,3554.0,125.0,80.0
+269,Zhejiang,Mainland China,1/28/2020 23:00,296.0,0.0,3.0
+270,Guangdong,Mainland China,1/28/2020 23:00,241.0,0.0,5.0
+271,Hunan,Mainland China,1/28/2020 23:00,221.0,0.0,0.0
+272,Henan,Mainland China,1/28/2020 23:00,206.0,2.0,1.0
+273,Anhui,Mainland China,1/28/2020 23:00,152.0,0.0,0.0
+274,Chongqing,Mainland China,1/28/2020 23:00,147.0,0.0,1.0
+275,Shandong,Mainland China,1/28/2020 23:00,121.0,0.0,0.0
+276,Jiangxi,Mainland China,1/28/2020 23:00,109.0,0.0,3.0
+277,Sichuan,Mainland China,1/28/2020 23:00,108.0,0.0,0.0
+278,Jiangsu,Mainland China,1/28/2020 23:00,99.0,0.0,1.0
+279,Beijing,Mainland China,1/28/2020 23:00,91.0,1.0,4.0
+280,Fujian,Mainland China,1/28/2020 23:00,82.0,0.0,0.0
+281,Shanghai,Mainland China,1/28/2020 23:00,80.0,1.0,4.0
+282,Guangxi,Mainland China,1/28/2020 23:00,58.0,0.0,2.0
+283,Shaanxi,Mainland China,1/28/2020 23:00,56.0,0.0,0.0
+284,Hebei,Mainland China,1/28/2020 23:00,48.0,1.0,0.0
+285,Yunnan,Mainland China,1/28/2020 23:00,44.0,0.0,0.0
+286,Hainan,Mainland China,1/28/2020 23:00,43.0,1.0,0.0
+287,Heilongjiang,Mainland China,1/28/2020 23:00,37.0,1.0,0.0
+288,Liaoning,Mainland China,1/28/2020 23:00,36.0,0.0,0.0
+289,Shanxi,Mainland China,1/28/2020 23:00,27.0,0.0,0.0
+290,Tianjin,Mainland China,1/28/2020 23:00,25.0,0.0,0.0
+291,Gansu,Mainland China,1/28/2020 23:00,24.0,0.0,0.0
+292,Inner Mongolia,Mainland China,1/28/2020 23:00,16.0,0.0,0.0
+293,Xinjiang,Mainland China,1/28/2020 23:00,13.0,0.0,0.0
+294,Ningxia,Mainland China,1/28/2020 23:00,12.0,0.0,0.0
+295,Guizhou,Mainland China,1/28/2020 23:00,9.0,0.0,0.0
+296,Jilin,Mainland China,1/28/2020 23:00,9.0,0.0,0.0
+297,Hong Kong,Hong Kong,1/28/2020 23:00,8.0,0.0,0.0
+298,Taiwan,Taiwan,1/28/2020 23:00,8.0,0.0,0.0
+299,Macau,Macau,1/28/2020 23:00,7.0,0.0,0.0
+300,Qinghai,Mainland China,1/28/2020 23:00,6.0,0.0,0.0
+301,Washington,US,1/28/2020 18:00,1.0,0.0,0.0
+302,Illinois,US,1/28/2020 23:00,1.0,0.0,0.0
+303,California,US,1/28/2020 23:00,2.0,0.0,0.0
+304,Arizona,US,1/28/2020 23:00,1.0,0.0,0.0
+305,,Japan,1/28/2020 23:00,7.0,0.0,1.0
+306,,Thailand,1/28/2020 23:00,14.0,0.0,5.0
+307,,South Korea,1/28/2020 23:00,4.0,0.0,0.0
+308,,Singapore,1/28/2020 23:00,7.0,0.0,0.0
+309,,Vietnam,1/28/2020 23:00,2.0,0.0,0.0
+310,,France,1/28/2020 23:00,4.0,0.0,0.0
+311,,Nepal,1/28/2020 23:00,1.0,0.0,0.0
+312,,Malaysia,1/28/2020 23:00,7.0,0.0,0.0
+313,Ontario,Canada,1/28/2020 23:00,1.0,0.0,0.0
+314,British Columbia,Canada,1/28/2020 23:00,1.0,0.0,0.0
+315,,Cambodia,1/28/2020 23:00,1.0,0.0,0.0
+316,,Sri Lanka,1/28/2020 23:00,1.0,0.0,0.0
+317,New South Wales,Australia,1/28/2020 23:00,4.0,0.0,0.0
+318,Victoria,Australia,1/28/2020 23:00,1.0,0.0,0.0
+319,Bavaria,Germany,1/28/2020 23:00,4.0,0.0,0.0
+320,Hubei,Mainland China,1/29/2020 21:00,4586.0,162.0,90.0
+321,Zhejiang,Mainland China,1/29/2020 21:00,428.0,0.0,4.0
+322,Guangdong,Mainland China,1/29/2020 21:00,311.0,0.0,6.0
+323,Henan,Mainland China,1/29/2020 21:00,278.0,2.0,2.0
+324,Hunan,Mainland China,1/29/2020 21:00,277.0,0.0,0.0
+325,Anhui,Mainland China,1/29/2020 21:00,200.0,0.0,2.0
+326,Chongqing,Mainland China,1/29/2020 21:00,165.0,0.0,1.0
+327,Jiangxi,Mainland China,1/29/2020 21:00,162.0,0.0,4.0
+328,Shandong,Mainland China,1/29/2020 21:00,145.0,0.0,1.0
+329,Sichuan,Mainland China,1/29/2020 21:00,142.0,1.0,1.0
+330,Jiangsu,Mainland China,1/29/2020 21:00,129.0,0.0,1.0
+331,Beijing,Mainland China,1/29/2020 21:00,111.0,1.0,4.0
+332,Shanghai,Mainland China,1/29/2020 21:00,101.0,1.0,5.0
+333,Fujian,Mainland China,1/29/2020 21:00,101.0,0.0,0.0
+334,Guangxi,Mainland China,1/29/2020 21:00,78.0,0.0,2.0
+335,Hebei,Mainland China,1/29/2020 21:00,65.0,1.0,0.0
+336,Shaanxi,Mainland China,1/29/2020 21:00,56.0,0.0,0.0
+337,Yunnan,Mainland China,1/29/2020 21:00,55.0,0.0,0.0
+338,Hainan,Mainland China,1/29/2020 21:00,43.0,1.0,0.0
+339,Heilongjiang,Mainland China,1/29/2020 21:00,43.0,1.0,0.0
+340,Liaoning,Mainland China,1/29/2020 21:00,39.0,0.0,1.0
+341,Shanxi,Mainland China,1/29/2020 21:00,35.0,0.0,1.0
+342,Tianjin,Mainland China,1/29/2020 21:00,27.0,0.0,0.0
+343,Gansu,Mainland China,1/29/2020 21:00,26.0,0.0,0.0
+344,Inner Mongolia,Mainland China,1/29/2020 21:00,16.0,0.0,0.0
+345,Jilin,Mainland China,1/29/2020 21:00,14.0,0.0,1.0
+346,Xinjiang,Mainland China,1/29/2020 21:00,14.0,0.0,0.0
+347,Guizhou,Mainland China,1/29/2020 21:00,12.0,0.0,1.0
+348,Ningxia,Mainland China,1/29/2020 21:00,12.0,0.0,0.0
+349,Hong Kong,Hong Kong,1/29/2020 21:00,10.0,0.0,0.0
+350,Taiwan,Taiwan,1/29/2020 21:00,8.0,0.0,0.0
+351,Macau,Macau,1/29/2020 21:00,7.0,0.0,0.0
+352,Qinghai,Mainland China,1/29/2020 21:00,6.0,0.0,0.0
+353,Tibet,Mainland China,1/29/2020 21:00,1.0,0.0,0.0
+354,Washington,US,1/29/2020 21:00,1.0,0.0,0.0
+355,Illinois,US,1/29/2020 21:00,1.0,0.0,0.0
+356,California,US,1/29/2020 21:00,2.0,0.0,0.0
+357,Arizona,US,1/29/2020 21:00,1.0,0.0,0.0
+358,,Japan,1/29/2020 21:00,11.0,0.0,1.0
+359,,Thailand,1/29/2020 21:00,14.0,0.0,5.0
+360,,South Korea,1/29/2020 21:00,4.0,0.0,0.0
+361,,Singapore,1/29/2020 21:00,10.0,0.0,0.0
+362,,Vietnam,1/29/2020 21:00,2.0,0.0,0.0
+363,,France,1/29/2020 21:00,5.0,0.0,0.0
+364,,Nepal,1/29/2020 21:00,1.0,0.0,0.0
+365,,Malaysia,1/29/2020 21:00,7.0,0.0,0.0
+366,Ontario,Canada,1/29/2020 21:00,2.0,0.0,0.0
+367,British Columbia,Canada,1/29/2020 21:00,1.0,0.0,0.0
+368,,Cambodia,1/29/2020 21:00,1.0,0.0,0.0
+369,,Sri Lanka,1/29/2020 21:00,1.0,0.0,0.0
+370,New South Wales,Australia,1/29/2020 21:00,4.0,0.0,0.0
+371,Victoria,Australia,1/29/2020 21:00,2.0,0.0,0.0
+372,Queensland,Australia,1/29/2020 21:00,1.0,0.0,0.0
+373,Bavaria,Germany,1/29/2020 21:00,4.0,0.0,0.0
+374,,Finland,1/29/2020 21:00,1.0,0.0,0.0
+375,,United Arab Emirates,1/29/2020 21:00,4.0,0.0,0.0
+376,Hubei,Mainland China,1/30/2020 21:30,5806.0,204.0,116.0
+377,Zhejiang,Mainland China,1/30/2020 21:30,537.0,0.0,9.0
+378,Guangdong,Mainland China,1/30/2020 21:30,393.0,0.0,11.0
+379,Henan,Mainland China,1/30/2020 21:30,352.0,2.0,3.0
+380,Hunan,Mainland China,1/30/2020 21:30,332.0,0.0,2.0
+381,Jiangxi,Mainland China,1/30/2020 21:30,240.0,0.0,7.0
+382,Anhui,Mainland China,1/30/2020 21:30,237.0,0.0,3.0
+383,Chongqing,Mainland China,1/30/2020 21:30,206.0,0.0,1.0
+384,Shandong,Mainland China,1/30/2020 21:30,178.0,0.0,2.0
+385,Sichuan,Mainland China,1/30/2020 21:30,177.0,1.0,1.0
+386,Jiangsu,Mainland China,1/30/2020 21:30,168.0,0.0,2.0
+387,Shanghai,Mainland China,1/30/2020 21:30,128.0,1.0,9.0
+388,Beijing,Mainland China,1/30/2020 21:30,121.0,1.0,5.0
+389,Fujian,Mainland China,1/30/2020 21:30,101.0,0.0,0.0
+390,Guangxi,Mainland China,1/30/2020 21:30,87.0,0.0,2.0
+391,Hebei,Mainland China,1/30/2020 21:30,82.0,1.0,0.0
+392,Yunnan,Mainland China,1/30/2020 21:30,76.0,0.0,0.0
+393,Shaanxi,Mainland China,1/30/2020 21:30,87.0,0.0,0.0
+394,Heilongjiang,Mainland China,1/30/2020 21:30,59.0,2.0,0.0
+395,Hainan,Mainland China,1/30/2020 21:30,50.0,1.0,1.0
+396,Liaoning,Mainland China,1/30/2020 21:30,45.0,0.0,1.0
+397,Shanxi,Mainland China,1/30/2020 21:30,39.0,0.0,1.0
+398,Tianjin,Mainland China,1/30/2020 21:30,32.0,0.0,0.0
+399,Gansu,Mainland China,1/30/2020 21:30,29.0,0.0,0.0
+400,Ningxia,Mainland China,1/30/2020 21:30,21.0,0.0,1.0
+401,Inner Mongolia,Mainland China,1/30/2020 21:30,20.0,0.0,0.0
+402,Xinjiang,Mainland China,1/30/2020 21:30,17.0,0.0,0.0
+403,Guizhou,Mainland China,1/30/2020 21:30,15.0,0.0,1.0
+404,Jilin,Mainland China,1/30/2020 21:30,14.0,0.0,1.0
+405,Hong Kong,Hong Kong,1/30/2020 21:30,12.0,0.0,0.0
+406,Taiwan,Taiwan,1/30/2020 21:30,9.0,0.0,0.0
+407,Qinghai,Mainland China,1/30/2020 21:30,8.0,0.0,0.0
+408,Macau,Macau,1/30/2020 21:30,7.0,0.0,0.0
+409,Tibet,Mainland China,1/30/2020 21:30,1.0,0.0,0.0
+410,Washington,US,1/30/2020 21:30,1.0,0.0,0.0
+411,Illinois,US,1/30/2020 21:30,2.0,0.0,0.0
+412,California,US,1/30/2020 21:30,2.0,0.0,0.0
+413,Arizona,US,1/30/2020 21:30,1.0,0.0,0.0
+414,,Japan,1/30/2020 21:30,11.0,0.0,1.0
+415,,Thailand,1/30/2020 21:30,14.0,0.0,5.0
+416,,South Korea,1/30/2020 21:30,6.0,0.0,0.0
+417,,Singapore,1/30/2020 21:30,10.0,0.0,0.0
+418,,Vietnam,1/30/2020 21:30,2.0,0.0,0.0
+419,,France,1/30/2020 21:30,5.0,0.0,0.0
+420,,Nepal,1/30/2020 21:30,1.0,0.0,0.0
+421,,Malaysia,1/30/2020 21:30,8.0,0.0,0.0
+422,Ontario,Canada,1/30/2020 21:30,2.0,0.0,0.0
+423,British Columbia,Canada,1/30/2020 21:30,1.0,0.0,0.0
+424,,Cambodia,1/30/2020 21:30,1.0,0.0,0.0
+425,,Sri Lanka,1/30/2020 21:30,1.0,0.0,0.0
+426,New South Wales,Australia,1/30/2020 21:30,4.0,0.0,2.0
+427,Victoria,Australia,1/30/2020 21:30,2.0,0.0,0.0
+428,Queensland,Australia,1/30/2020 21:30,3.0,0.0,0.0
+429,Bavaria,Germany,1/30/2020 21:30,4.0,0.0,0.0
+430,,Finland,1/30/2020 21:30,1.0,0.0,0.0
+431,,United Arab Emirates,1/30/2020 21:30,4.0,0.0,0.0
+432,,Philippines,1/30/2020 21:30,1.0,0.0,0.0
+433,,India,1/30/2020 21:30,1.0,0.0,0.0
+434,,Italy,1/30/2020 21:30,2.0,0.0,0.0
