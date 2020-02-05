@@ -32,7 +32,7 @@ We explore the relationship of various features with the spread of the disease  
 
 ![Stock](media/StocksEU.png)
 
-## References
+
 -  Humidity  Relationship
 
 ![Stock](media/Humidity.png)
@@ -47,5 +47,11 @@ We explore the relationship of various features with the spread of the disease  
 
 ![Stock](media/CDvsFlights.png)
 
+## References
+- asdsad 
+
+- asdsadsa
+
+- asdsadas
 
 
