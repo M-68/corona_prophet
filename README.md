@@ -4,8 +4,11 @@ With the objective of understanding and minimizing epidemic spread, we devloped 
 
 The following dataset has been taken from 
 [Novel Corona Virus 2019 Dataset:](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) along witrh custom feature engineering by extracting data from web.
+## China Death Trends
 
+Following trend indicates **daily,weekly,monthly** trend in confirmed death rates in China .It was obtained using [Prophet:](https://facebook.github.io/prophet/) an open source tool for Time Series analysis.
 
+![](media/china/trend_chart_china.png)
 
 ## Correlation Matrix 
 
