@@ -29,6 +29,14 @@ We explore the relationship of various features with the spread of the disease  
 ![Stock](media/Humidity.png)
 
 
--  Flights Search  Relationship
+-  Flights Search  Relation
 
 ![Stock](media/CDvsFlights.png)
+
+
+-  Lowest Temperature  Relation
+
+![Stock](media/CDvsFlights.png)
+
+
+
