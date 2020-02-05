@@ -10,6 +10,12 @@ Following trend indicates **daily,weekly,monthly** trend in confirmed death rate
 
 ![](media/china/trend_chart_china.png)
 
+## Uncertainty in Prediction
+
+
+![](media/china/uncerntainty_prediction.png)
+
+
 ## Correlation Matrix 
 
 _Pearson’s correlation coefficient is the test statistics that measures the statistical relationship, or association, between two continuous variables.  It is known as the best method of measuring the association between variables of interest because it is based on the method of covariance.  It gives information about the magnitude of the association, or correlation, as well as the direction of the relationship._
