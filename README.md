@@ -5,4 +5,6 @@ With the objective of understanding and minimizing epidemic spread, we devloped 
 
 
 ## Correlation Matrix 
+Features include  *StockPrice*,*Lowest/Highest Daily Temperature*,*Humidity(%)*,*StockPrice*,*Currency*,search terms such as *cold,etc*.
+
 ![](media/Feature_Correlation_Matrix.png)
