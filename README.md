@@ -6,9 +6,9 @@ https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd402
 
 ![Coronavirus 2019-nCoV Global Cases by Johns Hopkins CSSE](media/interactive_map.png)
 
->***Can we build an original, comprehensive solution to help handle the >crisis?***
->
->***We are looking to predict, visualize and act to contain the 2019 >n-Coron Virus, through the power of data science.***
+>***Can we build an original, comprehensive solution to help handle the crisis?***
+
+>***We are looking to predict, visualize and act to contain the 2019 n-Coron Virus, through the power of data science.***
 
 With the objective of understanding and minimizing epidemic spread, we devloped an method to accuractely predict and visualize the necessary features relating to **n-Corona virus** using *Time Series Analysis* and *EDA*.
 
