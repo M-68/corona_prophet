@@ -3,8 +3,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EXYNOS-999/corona_prophet/master)
 
 
-<iframe src="https://ghbtns.com/github-btn.html?user=exynos-999&type=follow&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-
 2019-nCoV Global Cases by Johns Hopkins
 
 https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
