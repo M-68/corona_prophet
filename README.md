@@ -1,8 +1,7 @@
 # Corona Prophet Prediction
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EXYNOS-999/corona_prophet/master)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/EXYNOS-999/corona_prophet/master
+
 
 2019-nCoV Global Cases by Johns Hopkins
 
