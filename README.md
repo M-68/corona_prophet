@@ -2,7 +2,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EXYNOS-999/corona_prophet/master)
 
-[UPDATES] https://www.nature.com/articles/d41586-020-00154-w?utm_source=facebook&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_Nature&fbclid=IwAR3I1vxjD05wwXbGYzqt9jnXVPE6pUiQzbTjISHT6W-niFs5MistDkL2l80
+
+[UPDATES]
+- https://www.nature.com/articles/d41586-020-00154-w?utm_source=facebook&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_Nature&fbclid=IwAR3I1vxjD05wwXbGYzqt9jnXVPE6pUiQzbTjISHT6W-niFs5MistDkL2l80
+- https://public.tableau.com/profile/ankit.grover4668#!/vizhome/COVID-19_15854929469350/Story1
 
 2019-nCoV Global Cases by Johns Hopkins
 
