@@ -4,6 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/UROP-X/corona_prophet)](https://github.com/UROP-X/corona_prophet/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/UROP-X/corona_prophet)](https://github.com/UROP-X/corona_prophet/network)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub license](https://img.shields.io/github/license/UROP-X/corona_prophet)](https://github.com/UROP-X/corona_prophet/LICENSE)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EXYNOS-999/corona_prophet/master)
 
